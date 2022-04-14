@@ -15,7 +15,7 @@ jobs:
         ado_token: '${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}'   
         github_token: '${{ secrets.GH_TOKEN }}'    
         ado_organization: 'devpandaops'
-        ado_project: 'Agile'
+        ado_project: 'github-actions-pull-request-azure-devops'
         ado_wit: 'User Story' 
         ado_new_state: 'New'
         ado_active_state: 'Active'
